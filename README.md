@@ -12,3 +12,10 @@ Rotacion Sistemas Eolicos:
 
 
 [Video: Potencia Reactiva: Con la Corriente Transformada a Alterna III](https://youtu.be/1spW6vkpPMU?si=vZ5ZQH_neoCedXjG)
+
+
+________________________________________________________________________________________________________
+
+
+[Mejores Motores Pausibles.](https://youtu.be/ky_AkoCfgHs?si=Zv_pg4sEUOK6vypi)
+
