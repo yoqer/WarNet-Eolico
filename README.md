@@ -24,7 +24,7 @@ ________________________________________________________________________________
 [Motor Efectivo Hidrogeno Liquido](https://youtu.be/jujU0OiekCc?si=-ctfUYVD2WZvo9bl)
 
 
-Motor Electrolisis WarNet-Air; de [Agua](https://youtu.be/IkO7Qu-ciwI?si=SJHJ7QvjfeC1aEDN)
+Motor Basico de Electrolisis del [WarNet-Air](https://github.com/yoqer/WarNet-Air); de [Agua](https://youtu.be/IkO7Qu-ciwI?si=SJHJ7QvjfeC1aEDN)
 
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
