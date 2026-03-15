@@ -33,7 +33,7 @@ Opciones:
 
 -[*Baterias Infinitas*](https://www.youtube.com/watch?v=-Zqsi5c4ac0)
 
-·[Bateria ](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
+·[Baterias Regenerativas](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
 
 ·[Bateria ](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
 
