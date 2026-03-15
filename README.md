@@ -42,4 +42,4 @@ Opciones:
 _____________________________________________________________________________________________________________________________________
 
 
-[Toalla de Papel. Hidrogeno (Eletrolisis)](https://youtu.be/n-PjDh9el_g?si=esXu5M88FI28DW7k)
+[Toalla de Papel. Hidrogeno (Electrolisis)](https://youtu.be/n-PjDh9el_g?si=esXu5M88FI28DW7k)
