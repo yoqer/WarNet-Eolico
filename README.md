@@ -17,7 +17,7 @@ Rotacion Sistemas Eolicos:
 [Video: Crear Motor Electrico Basico I](https://www.youtube.com/watch?v=x-9aGFgy6rY)
 
 
-[Video: Crear Motor Electrico Basico **II](https://youtu.be/CCOWD-zMD9A?si=agycgJJBIBLe2bMX)**
+*[Video: Crear Motor Electrico Basico II](https://youtu.be/CCOWD-zMD9A?si=agycgJJBIBLe2bMX)*
 
 
 [Video: Potencia Reactiva: Con la Corriente Transformada a Alterna III](https://youtu.be/1spW6vkpPMU?si=vZ5ZQH_neoCedXjG)
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 [Motor Efectivo Hidrogeno Liquido](https://youtu.be/jujU0OiekCc?si=-ctfUYVD2WZvo9bl)
 
 
-[Motor estable de Helices en estilo Ciclico](https://youtu.be/xyopqivK23Q?si=3iTnjVZuOEwe7NM0)
+[Motor estable de Helices en estilo Ciclonico](https://youtu.be/xyopqivK23Q?si=3iTnjVZuOEwe7NM0)
 
 Motor [Basico](https://youtu.be/oDh-gmm3Lek?si=3twlxktHuzL-7ueK) de Electrolisis del [WarNet-Air](https://github.com/yoqer/WarNet-Air); de [Agua](https://youtu.be/IkO7Qu-ciwI?si=SJHJ7QvjfeC1aEDN)
 
