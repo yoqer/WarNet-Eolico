@@ -25,14 +25,21 @@ ________________________________________________________________________________
 
 
 
-**WarNet Space**
+[**WarNet Space**](https://github.com/yoqer/WarNet-Space)
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Opciones:
 
-[Baterias Infinitas](https://www.youtube.com/watch?v=-Zqsi5c4ac0)
+-[*Baterias Infinitas*](https://www.youtube.com/watch?v=-Zqsi5c4ac0)
 
+·[Bateria ](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
+
+·[Bateria ](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
+
+
+
+_____________________________________________________________________________________________________________________________________
 
 
 [Toalla de Papel. Hidrogeno (Eletrolisis)](https://youtu.be/n-PjDh9el_g?si=esXu5M88FI28DW7k)
