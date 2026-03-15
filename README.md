@@ -35,7 +35,7 @@ Opciones:
 
 ·[Baterias Regenerativas](https://youtu.be/7j2cRndOXgs?si=acL3fAgk2-Q-kU5L) 
 
-·[Bateria Comun](https://youtu.be/5aKoZIUs9yk?si=lrhe8RwVhVeXwwlQ)) 
+·[Bateria Comun](https://youtu.be/5aKoZIUs9yk?si=lrhe8RwVhVeXwwlQ)
 
 
 
