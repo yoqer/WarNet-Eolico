@@ -12,7 +12,7 @@ Rotacion Sistemas Eolicos:
 
 
 [Video: Potencia Reactiva: Con la Corriente Transformada a Alterna III](https://youtu.be/1spW6vkpPMU?si=vZ5ZQH_neoCedXjG)
-
+)
 
 ________________________________________________________________________________________________________
 
@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 [Motor Efectivo Hidrogeno Liquido](https://youtu.be/jujU0OiekCc?si=-ctfUYVD2WZvo9bl)
 
+Motor [Basico](https://youtu.be/oDh-gmm3Lek?si=3twlxktHuzL-7ueK) de Electrolisis del [WarNet-Air](https://github.com/yoqer/WarNet-Air); de [Agua](https://youtu.be/IkO7Qu-ciwI?si=SJHJ7QvjfeC1aEDN)
 
-Motor Basico de Electrolisis del [WarNet-Air](https://github.com/yoqer/WarNet-Air); de [Agua](https://youtu.be/IkO7Qu-ciwI?si=SJHJ7QvjfeC1aEDN)
 
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
