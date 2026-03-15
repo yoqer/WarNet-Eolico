@@ -8,4 +8,4 @@ Rotacion Sistemas Eolicos:
 
 [Video: Crear Motor Electrico Basico I](https://www.youtube.com/watch?v=x-9aGFgy6rY)
 
-[Video: Crear Motor Electrico Basico II]([https://www.youtube.com/watch?v=x-9aGFgy6rY](https://youtu.be/CCOWD-zMD9A?si=agycgJJBIBLe2bMX))
+[Video: Crear Motor Electrico Basico II](https://youtu.be/CCOWD-zMD9A?si=agycgJJBIBLe2bMX)
